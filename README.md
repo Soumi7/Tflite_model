@@ -1,5 +1,5 @@
 # Tflite_model
-a pkb model is generated from this code and is further converted to .tflite
+a .pb model is generated from this code and is further converted to .tflite
 
 there will be an errorin toco command not found:
 
